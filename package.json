@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Daniel Makokha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
